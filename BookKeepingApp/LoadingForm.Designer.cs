@@ -1,4 +1,4 @@
-﻿namespace BookKeeping
+﻿namespace BookKeepingApp
 {
     partial class LoadingForm
     {

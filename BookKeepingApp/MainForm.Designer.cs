@@ -1,4 +1,4 @@
-﻿namespace BookKeeping
+﻿namespace BookKeepingApp
 {
     partial class MainForm
     {
@@ -54,7 +54,7 @@
             this.largeImgs = new DevExpress.Utils.ImageCollection(this.components);
             this.xtraTabbedMdiMgr = new DevExpress.XtraTabbedMdi.XtraTabbedMdiManager(this.components);
             this.skin = new DevExpress.LookAndFeel.DefaultLookAndFeel(this.components);
-            this.loading = new DevExpress.XtraSplashScreen.SplashScreenManager(this, typeof(global::BookKeeping.LoadingForm), true, true);
+            this.loading = new DevExpress.XtraSplashScreen.SplashScreenManager(this, typeof(global::BookKeepingApp.LoadingForm), true, true);
             ((System.ComponentModel.ISupportInitialize)(this.barMain)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dockMgr)).BeginInit();
             this.hideContainerLeft.SuspendLayout();
@@ -105,14 +105,14 @@
             // 
             this.barSkin.Caption = "皮肤";
             this.barSkin.Id = 7;
-            this.barSkin.ImageOptions.Image = global::BookKeeping.Properties.Resources.skin;
+            this.barSkin.ImageOptions.Image = global::BookKeepingApp.Properties.Resources.skin;
             this.barSkin.Name = "barSkin";
             // 
             // barWindow
             // 
             this.barWindow.Caption = "窗口";
             this.barWindow.Id = 8;
-            this.barWindow.ImageOptions.Image = global::BookKeeping.Properties.Resources.window;
+            this.barWindow.ImageOptions.Image = global::BookKeepingApp.Properties.Resources.window;
             this.barWindow.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.barTabbedMdi),
             new DevExpress.XtraBars.LinkPersistInfo(this.barCascade),

@@ -7,7 +7,7 @@ using System.Text;
 using System.Windows.Forms;
 using DevExpress.XtraWaitForm;
 
-namespace BookKeeping
+namespace BookKeepingApp
 {
     public partial class LoadingForm : WaitForm
     {

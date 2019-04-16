@@ -11,7 +11,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace BookKeeping
+namespace BookKeepingApp
 {
     public partial class MainForm : XtraForm
     {

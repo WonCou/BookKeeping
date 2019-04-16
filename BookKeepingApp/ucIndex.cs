@@ -7,7 +7,7 @@ using System.Text;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
 
-namespace BookKeeping
+namespace BookKeepingApp
 {
     public partial class ucIndex : DevExpress.XtraEditors.XtraUserControl
     {
