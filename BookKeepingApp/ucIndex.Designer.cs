@@ -49,7 +49,6 @@
             this.Name = "ucIndex";
             this.Size = new System.Drawing.Size(697, 336);
             this.ResumeLayout(false);
-
         }
 
         #endregion

@@ -58,7 +58,6 @@ C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\bin\Debug\de\DevExpre
 C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
 C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
 C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
-C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\obj\x86\Debug\BookKeepingApp.csprojResolveAssemblyReference.cache
 C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\obj\x86\Debug\BookKeepingApp.MainForm.resources
 C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\obj\x86\Debug\BookKeepingApp.MdiForm.resources
 C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\obj\x86\Debug\BookKeepingApp.Properties.Resources.resources
@@ -68,3 +67,5 @@ C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\obj\x86\Debug\BookKee
 C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\obj\x86\Debug\BookKeepingApp.exe.licenses
 C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\obj\x86\Debug\BookKeepingApp.exe
 C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\obj\x86\Debug\BookKeepingApp.pdb
+C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\obj\x86\Debug\BookKeepingApp.csprojResolveAssemblyReference.cache
+C:\Users\WonCou\Source\Repos\BookKeepingApp\BookKeepingApp\obj\x86\Debug\BookKeepingApp.LoginForm.resources

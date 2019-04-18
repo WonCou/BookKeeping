@@ -43,6 +43,7 @@
             this.progressPanel1.AppearanceCaption.Options.UseFont = true;
             this.progressPanel1.AppearanceDescription.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.5F);
             this.progressPanel1.AppearanceDescription.Options.UseFont = true;
+            this.progressPanel1.BarAnimationElementThickness = 2;
             this.progressPanel1.Caption = "";
             this.progressPanel1.Description = "正在加载,请稍候...";
             this.progressPanel1.Dock = System.Windows.Forms.DockStyle.Fill;

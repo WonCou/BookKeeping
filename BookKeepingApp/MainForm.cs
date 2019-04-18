@@ -144,7 +144,7 @@ namespace BookKeepingApp
 
         private void InitMenu()
         {
-            string[] strMenus = { "系统管理", "会员管理", "财务管理", "报表管理", "基础资料", "货品管理", "客户管理", "物流管理" };
+            string[] strMenus = { "我的主页", "高级查询", "分类报表", "人员报表", "账户报表", "标签报表", "流水报表", "系统设置"};
             var imgindex = 0;
             foreach (var item in strMenus)
             {
